@@ -1,0 +1,131 @@
+header{
+
+
+    height: 76px;
+    background-color: var(--color-primary); 
+    display: flex;
+
+    margin-bottom: 0px;
+}
+
+.container-nav{
+
+    height: 76px;
+    left: 0px;
+    top: 0px;
+    
+    background: #F5DEB3;
+}
+
+
+
+.text-new-leilao{
+    cursor: pointer;
+    position: absolute;
+    width: 230px;
+    height: 33px;
+    left: 446px;
+    top: 22px;
+    
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    /* identical to box height */
+    transition: 1s;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #000000;
+}
+
+
+
+
+.text-new-leilao:hover,
+.text-new-leilao:focus{
+    -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color: #000;
+    color: white;
+}
+
+
+
+.txt-user{
+    cursor: pointer;
+position: absolute;
+width: 100px;
+height: 33px;
+left: 808px;
+top: 22px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 33px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+transition: 1s;
+color: #000000;
+}
+
+.txt-user:hover,
+.txt-user:focus{
+    -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color: #000;
+    color: white;
+}
+
+a{
+    color: #000;
+}
+
+.icons-out{
+    cursor: pointer;
+    position: absolute;
+    width: 30px;
+    height: 27.9px;
+    left: 1250px;
+    top: 24px;
+    transition: 1s;
+}
+
+
+.a:hover,
+.a:focus{
+    -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color: #000;
+    color: white;
+}
+
+.icons-out:hover,
+.icons-out:focus{
+    -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color: #000;
+    color: white;
+}
+
+
+.coin{
+    cursor: pointer;
+    position: absolute;
+    width: 116px;
+    height: 105px;
+    left: 53px;
+    top: 24px;
+    transition: 1s;
+}
+
+.coin:hover,
+.coin:focus{
+    -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color: #000;
+    color: brown;
+}
+

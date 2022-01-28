@@ -1,0 +1,72 @@
+.leiloes-form-container {
+    max-width: 490px;
+    margin: 40px auto;
+    padding: 20px;
+    align-items: center;
+    background-color: var(--color-primary);
+    border-radius: 8px 8px 8px 8px;
+}
+
+.leiloes-form {
+    width: calc(100% - 20px);
+}
+
+.leiloes-form-group {
+    margin-bottom: 6px;
+}
+
+.leiloes-form-group label {
+    font-size: 12px;
+    color:  black;
+}
+
+.leiloes-form-btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+
+.leiloes-card-bottom-container {
+    background-color: var(--color-primary);
+    color: var(--color-primary);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 10px 20px 10px;
+    border-radius: 8px 8px 8px 8px;
+}
+
+.h3special {
+    color: var(--color-primary);
+    color: black;
+    text-align: center;
+    font-size: 38px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    min-height: 40px;
+}
+
+
+
+.leiloes-card-bottom-container h4 {
+    color: var(--color-primary);
+    color: black;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 700;
+    margin-top:-10px;
+    min-height: 40px;
+}
+
+.leiloes-btn {
+    background-color: black;
+    color: var(--color-primary);
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    height: 40px;
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

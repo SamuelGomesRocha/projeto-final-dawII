@@ -1,0 +1,108 @@
+.container-leilaocard{
+    margin-bottom: 20px;
+}
+
+.btn-lancesa {
+    background-color: black;
+    color: white;
+    margin-top: 0px;
+    font-size: 14px;
+    font-weight: 700;
+    height: 20px;
+    width: 100%;
+    display: flex;
+    border-radius: 0px;
+    align-items: center;
+    justify-content: center;
+    transition: 1s;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.btn-lances:hover,
+.btn-lances:focus{
+    color: white;
+}
+
+
+
+.btn-delete {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    height: 30px;
+    width: 80px;
+    display: flex;
+    border-radius: 8px 8px 8px 8px;
+    align-items: center;
+    justify-content: center;
+    margin: 5px 10px 5px 10px;
+    float: left;
+    transition: 0.7s;
+}
+
+.btn-delete:hover,
+.btn-delete:focus{
+    -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color: red;
+    color: red;
+    font-size: 15px;
+    font-weight: 1000;
+    box-shadow: #000 1px;
+}
+
+
+.btn-edit {
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    height: 30px;
+    width: 80px;
+    display: flex;
+    border-radius: 8px 8px 8px 8px;
+    align-items: center;
+    justify-content: center;
+    margin: 5px 10px 5px 10px;
+    float: left;
+    transition: 0.7s;
+}
+
+.btn-edit:hover,
+.btn-edit:focus{
+    -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color: white;
+    color: yellowgreen;
+    font-size: 15px;
+    font-weight: 1000;
+    box-shadow: #000 1px;
+}
+
+.container-buttons-lance {
+    color: var(--color-primary);
+    color: black;
+    text-align: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 700;
+    margin-top:-10px;
+    min-height: 40px;
+}
+
+.info-leila{
+    margin-top: 0px;
+    margin-bottom: -40px;
+}
+
+.dsmovie-card-bottom-containero {
+    background-color: var(--color-primary);
+    color: var(--color-primary);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 10px 20px 10px;
+    border-radius: 10px 10px 8px 8px;
+}

@@ -1,0 +1,63 @@
+.content-body-app{
+   display: flex;
+    flex-direction: column;
+    justify-content: center;
+   width: 340px;
+    height: 300px;
+   
+    margin-left: 30%;
+    margin-top: 10%;
+    background-color: rgb(198, 198, 198); 
+    border-radius: 2%;
+}
+
+body{
+    background-color: white;    
+}
+
+
+html{
+    background-color: white; 
+}
+
+.cmp-lances {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 320px;
+    height: 250px;
+    left: 752px;
+    top: 267px;
+
+
+    background: #ADD8E6;
+    border-radius: 10px;
+}
+
+
+.cmp-lances h3{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-left: -3px;
+    font-size: 14px;
+    line-height: 25px;
+    color: white;
+}
+
+.llances-content {
+    width: 300px;
+    height: 230px;
+    margin-left: -104px;
+    margin-top: 0px;
+    display: flex;
+    float: left;
+    flex-direction: column;
+
+}
+
+.lanceiro {
+    margin-top: -90px;
+}

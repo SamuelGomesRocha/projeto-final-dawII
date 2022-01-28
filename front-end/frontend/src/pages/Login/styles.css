@@ -1,0 +1,141 @@
+.dsmovie-form-containerr {
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+.dsmovie-form {
+    width: calc(100% - 20px);
+}
+
+.dsmovie-form-group {
+    margin-bottom: 6px;
+}
+
+.dsmovie-form-group label {
+    font-size: 12px;
+    color:  black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.dsmovie-form-btn-containerr {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.dsmovie-movie-card-image {
+    width: 100%;
+    height: 175px;
+    border-radius: 8px 8px 0 0;
+}
+
+.dsmovie-movie-card-imagear{
+    width: 100%;
+    height: 50%;
+    border-radius: 8px 8px 0 0;
+}
+
+.dsmovie-card-bottom-container {
+    background-color: var(--color-primary);
+    color: var(--color-primary);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 10px 20px 10px;
+    border-radius: 0 0 8px 8px;
+}
+
+.dsmovie-card-bottom-container h3 {
+    color: var(--color-primary);
+    color: black;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom:0px;
+    min-height: 40px;
+    transition: 1s;
+}
+
+.dsmovie-card-bottom-container h3:hover{
+    -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color: #000;
+    font-weight: 900;
+    color: white;
+}
+
+.dsmovie-card-bottom-container h4 {
+    color: var(--color-primary);
+    color: black;
+    text-align: center;
+    display: flex;
+    font-size: 12px;
+    font-weight: 700;
+    margin-top:-10px;
+    min-height: 40px;
+}
+
+.dsmovie-btn {
+    background-color: black;
+    color: var(--color-primary);
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    height: 40px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    margin-left: 25%;
+    justify-content: center;
+}
+
+.atx-lances {
+    background-color: black;
+    color: white;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    height: 20px;
+    width: 360px;
+    display: flex;
+    border-radius: 0px;
+    align-items: center;
+    justify-content: center;
+    transition: 1s;
+}
+
+.atx-lances:hover,
+.atx-lances:focus{
+    color: white;
+}
+
+.input-username {
+    font-size: 14px;
+}
+
+.input-password {
+    font-size: 14px;
+}
+
+.passData{
+    font-size: 14px;
+
+}
+
+.loginData{
+    font-size: 14px;
+}
+
+.sup-imp{
+    margin-left: -10px;
+    margin-top: 10px;
+    margin-bottom: -30px;
+    transition: 1s;
+}
+
+
+.sup-imp:hover{
+    color: white;
+    cursor: pointer;
+}

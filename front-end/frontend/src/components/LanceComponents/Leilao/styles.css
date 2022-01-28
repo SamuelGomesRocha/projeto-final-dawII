@@ -1,0 +1,186 @@
+.container-leilaocardo{
+    position: absolute;
+    margin-left: 150px;
+    margin-top: -30px;
+    width: 500px;
+    height: 400px;
+}
+
+
+.info-title {
+    margin-top: 10px;
+    font-size: 10px;
+    width: 100px;
+    color: green;
+    margin-bottom: -10px;
+    margin-left: -140px;
+}
+
+.info-money {
+    margin-left: -480px; 
+}
+
+.info-timet {
+    color: red;
+    font-size: 12px;
+    margin-bottom: -20px;
+    margin-top: -10px;
+}
+
+.timing {
+    margin-left: 38px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.timer-describe {
+    position: absolute;
+    width: 162px;
+    height: 35px;
+
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 10px;
+    line-height: 35px;
+    margin-right: -300px;
+
+
+color: #1E1E1E;
+}
+
+
+.info-leilaor {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 300px;
+    height: 22px;
+    
+    margin-left: 0px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 22px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #4A4A4A;
+}
+
+.btn-lancers {
+    background-color: black;
+    color: white;
+    margin-top: 0px;
+    font-size: 14px;
+    font-weight: 700;
+    height: 20px;
+    width: 500px;
+    display: flex;
+    border-radius: 0px;
+    align-items: center;
+    justify-content: center;
+    transition: 1s;
+}
+
+.btn-lances:hover,
+.btn-lances:focus{
+    color: white;
+}
+
+
+.dsmovie-movie-card-imag{
+    width: 500px;
+    height: 320px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+
+.btn-delete {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    height: 30px;
+    width: 80px;
+    display: flex;
+    border-radius: 8px 8px 8px 8px;
+    align-items: center;
+    justify-content: center;
+    margin: 5px 10px 5px 10px;
+    float: left;
+    transition: 0.7s;
+}
+
+.btn-delete:hover,
+.btn-delete:focus{
+    -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color: red;
+    color: red;
+    font-size: 15px;
+    font-weight: 1000;
+    box-shadow: #000 1px;
+}
+
+
+.btn-edit {
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    height: 30px;
+    width: 80px;
+    display: flex;
+    border-radius: 8px 8px 8px 8px;
+    align-items: center;
+    justify-content: center;
+    margin: 5px 10px 5px 10px;
+    float: left;
+    transition: 0.7s;
+}
+
+.dsmovie-card-bottom-containera {
+    background-color: var(--color-primary);
+    color: var(--color-primary);
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    align-items: center;
+    padding: 10px 10px 20px 10px;
+    border-radius: 0 0 8px 8px;
+}
+
+
+.btn-edit:hover,
+.btn-edit:focus{
+    -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color: white;
+    color: yellowgreen;
+    font-size: 15px;
+    font-weight: 1000;
+    box-shadow: #000 1px;
+}
+
+.container-buttons-lancer{
+    color: var(--color-primary);
+    color: black;
+    text-align: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 700;
+    margin-top:-10px;
+    min-height: 40px;
+}
+
+.info-leila{
+    margin-top: 0px;
+    margin-bottom: -40px;
+}

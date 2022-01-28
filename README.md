@@ -21,3 +21,6 @@
 
 ### Cadastros
 ![image](https://user-images.githubusercontent.com/63269683/151467810-c290d2b2-bfc5-4720-9d11-4eaad542c81e.png)
+
+### Simulação de vitória em leilão finalizado
+![image](https://user-images.githubusercontent.com/63269683/151468062-3be27d0d-bb3d-4000-b8c8-ecf3e9617ba8.png)

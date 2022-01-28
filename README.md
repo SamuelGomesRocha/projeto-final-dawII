@@ -10,6 +10,9 @@
 ### Leilões
 ![image](https://user-images.githubusercontent.com/63269683/151467699-8b583e72-9dfe-4f44-b2ba-8d9bbf27aff5.png)
 
+### Edição de leilões
+![image](https://user-images.githubusercontent.com/63269683/151467911-584c0323-c9d8-4018-b359-568dbeebd819.png)
+
 ### Lances
 ![image](https://user-images.githubusercontent.com/63269683/151467746-e3e96e59-2b40-44ae-824a-efd422261ebc.png)
 
